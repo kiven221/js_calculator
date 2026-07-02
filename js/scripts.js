@@ -17,4 +17,4 @@ function clearFields() {
     document.getElementById('num2').value = "";
     document.getElementById('num3').value = "";
     document.getElementById('answer').textContent = "Answer Here";
-}
+}s
